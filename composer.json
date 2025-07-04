@@ -1,12 +1,12 @@
 {
-    "name": "tmdk/composer-workspaces-plugin",
+    "name": "ibrahimbasbogu/composer-workspaces-plugin",
     "description": "Workspaces plugin for Composer",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
-            "name": "tmdk",
-            "email": "tobiasvandijk@gmail.com"
+            "name": "ibrahimbasbogu",
+            "email": "ibrahim.basbogu@bktomorrow.com"
         }
     ],
     "require": {
