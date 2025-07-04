@@ -13,7 +13,7 @@
         "composer-plugin-api": "^2.0",
         "ext-json": "*",
         "symfony/finder": "^4.2 || ^7.0",
-        "symfony/filesystem": "^4.2" || ^7.0",
+        "symfony/filesystem": "^4.2 || ^7.0",
         "php": ">=7.1"
     },
     "autoload": {
